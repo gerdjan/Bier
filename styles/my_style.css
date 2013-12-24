@@ -1,0 +1,38 @@
+body{
+	background-color: #222222;
+	color: #FFFFFF;
+	font-family: verdana;
+	margin: 10px;
+}
+
+.square {
+	position: absolute;
+	background-color: #FF00AA;
+	width: 98px;
+	height: 98px;
+	border: 1px solid black;
+	margin-top:40px;
+}
+
+#square1 { left: 10px; top: 10px; }
+#square2 { left: 110px; top: 10px; }
+#square3 { left: 210px; top: 10px; }
+
+#square4 { left: 10px; top: 110px; }
+#square5 { left: 110px; top: 110px; }
+#square6 { left: 210px; top: 110px; }
+
+#square7 { left: 10px; top: 210px; }
+#square8 { left: 110px; top: 210px; }
+#square9 { left: 210px; top: 210px; }
+
+#vierkant10 { 
+	left: 10px; top: 10px;
+	position: absolute;
+	background-color: #FF00AA;
+	width: 298px;
+	height: 298px;
+	border: 1px solid black;
+	margin-top:40px;
+
+ }
